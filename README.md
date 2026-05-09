@@ -1,6 +1,3 @@
----
-
-```md
 # 🧠 Neuromorphic Real-Time Processing System
 
 ## 📌 Overview
@@ -9,7 +6,6 @@ This project implements a **neuromorphic computing pipeline** for real-time sign
 
 The pipeline transforms continuous input signals into spike-based representations, processes them using an SNN, and simulates deployment on neuromorphic hardware.
 
----
 
 ## 🚀 Key Features
 
