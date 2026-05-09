@@ -108,7 +108,6 @@ The system generates:
 
 ```bash
 git clone https://github.com/JpUnique/neuromorphic-computing.git
-cd neuromorphic-project
 ```
 
 ### 2. Install dependencies
